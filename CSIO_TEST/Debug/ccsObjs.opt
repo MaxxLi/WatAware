@@ -1,0 +1,1 @@
+"./Library/CTS_HAL.obj" "./Library/CTS_Layer.obj" "./Application/main.obj" "./Application/structure.obj" "../lnk_msp430fr6989.cmd" -l"libmath.a" -l"libc.a" 
